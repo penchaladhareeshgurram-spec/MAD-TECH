@@ -1,0 +1,8 @@
+{
+  "name": "MAD Tech Internship Portal",
+  "description": "Apply for hands-on technical internships and gain industry experience with MAD tech. Submit applications instantly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
